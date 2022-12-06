@@ -6,9 +6,13 @@
 **Discord:** s1mka#8594<br>
 **E-mail:** dsb.learn@gmail.com<br>
 
+---
+
 ### About myself:
 
 I am a Junior Frontend Developer. I started the course "JS/FRONT-END. STAGE 0" at RS School
+
+---
 
 ### Skills:
 
@@ -18,13 +22,19 @@ I am a Junior Frontend Developer. I started the course "JS/FRONT-END. STAGE 0" a
 - Figma
 - Postman
 
+---
+
 ### Code example:
 
 Nothing yet.
 
+---
+
 ### Courses:
 
 - RS School «JS/FRONT-END. STAGE 0»
+
+---
 
 ### Languages:
 
